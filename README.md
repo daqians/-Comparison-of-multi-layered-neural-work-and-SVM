@@ -30,7 +30,7 @@ runimg.m.              ——- script, run svm on images
 
 SVMToy2.m              —-— class, wraps fitcsvm
 
-
+D. Shi - Machine Learning project.pdf --- The report of this project
 
 
 
